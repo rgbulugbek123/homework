@@ -16,7 +16,7 @@ button {
 }
 
 .container {
-    @apply w-[89%] mx-auto;
+    @apply w-[1050px] mx-auto;
 }
 
 .ranking_text1 {
